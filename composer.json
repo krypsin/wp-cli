@@ -1,5 +1,5 @@
 {
-	"name": "wp-cli/wp-cli",
+	"name": "krypsin/wp-cli",
 	"description": "A command line interface for WordPress",
 	"keywords": [ "cli", "wordpress" ],
 	"homepage": "http://wp-cli.org",
